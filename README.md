@@ -1,9 +1,9 @@
-<h1 align="center">Joac0livero</h1>
-<h5 align="left">Hola, bienvenid@! Además de programar, amo los gatos y la percusión!</h5>
+<h1 align="center">JoacOlivero</h1>
+<h5 align="left">Hola, soy Joaquín, además de programar, amo los gatos y la música</h5>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="java logo" />
