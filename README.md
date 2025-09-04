@@ -1,5 +1,5 @@
-<h1 align="center">JoacOlivero</h1>
-<h5 align="left">Hola, soy Joaquín y además de programar, amo los gatos y la música</h5>
+<h1 align="center">Joacolivero</h1>
+<h5 align="left">Hola, soy Joaquín! Un desarrollador de Software proactivo, amante de la tecnología, los gatos y la música.</h5>
 
 
 <div align="center">
