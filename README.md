@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Pulpoide's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Pulpoide's GitHub Stats" />
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="java logo" />
