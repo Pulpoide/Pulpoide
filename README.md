@@ -49,7 +49,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pulpoide&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Joaquin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pulpoide&show_icons=true&theme=dark&hide_border=true" alt="Joaquin's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </div>
