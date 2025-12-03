@@ -47,15 +47,6 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pulpoide&show_icons=true&theme=dark&hide_border=true" alt="Joaquin's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</div>
-
-<br>
-
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/JoaquinOlivero" target="_blank">
@@ -68,5 +59,3 @@
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-
