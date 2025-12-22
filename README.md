@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Joaquin Olivero 👋</h1>
-<h3 align="center">Backend Developer | Performance Testing Enthusiast</h3>
+<h3 align="center">Full Stack Developer Junior | Backend Oriented</h3>
 
 <p align="center">
   <em>Software Developer from Argentina, specialized in building robust architectures with <b>Java & Spring Boot</b>. <br>
