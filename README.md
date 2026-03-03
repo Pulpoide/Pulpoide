@@ -48,15 +48,6 @@
 
 <br>
 
-<h3 align="center">🌟 Featured Projects</h3>
-<p align="center">
-  <b>AI Assistant (HR RAG System):</b> An intelligent system that eliminates hallucinations by grounding LLM responses in private HR documentation. <br>
-  <b>Groove Hub:</b> An AI-powered music advisor CLI that translates user moods into curated recommendations. <br>
-  <b>Smart Dispenser:</b> Integrating interactive AI avatars into hardware for real-time user engagement.
-</p>
-
-<br>
-
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/JoaquinOlivero" target="_blank">
