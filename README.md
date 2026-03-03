@@ -1,40 +1,40 @@
 <h1 align="center">Hi there, I'm Joaquin Olivero 👋</h1>
-<h3 align="center">Full Stack Developer Junior | Backend Oriented</h3>
+<h3 align="center">AI Engineer | Backend Specialist</h3>
 
 <p align="center">
-  <em>Software Developer from Argentina, specialized in building robust architectures with <b>Java & Spring Boot</b>. <br>
-  I focus on scalability, clean code, and ensuring system resilience through <b>k6 load testing</b>.</em>
+  <em>Software Developer from Argentina, specialized in bridging <b>Robust Backend Architectures</b> with <b>Intelligent Systems</b>. <br>
+  I build production-ready <b>RAG pipelines</b> and AI agents, focusing on scalability and system resilience.</em>
 </p>
 
 <p align="center">
-  🌱 I’m currently improving my skills in <b>Microservices & CI/CD</b><br>
-  🐈 Cat lover & Music enthusiast<br>
-  💼 Open to work globally (Remote/Relocation)
+  🚀 Currently specializing in <b>AI Engineering (RAG & Generative AI)</b> at Henry<br>
+  🥁 Drummer & Biohacking enthusiast<br>
+  💼 Open to global opportunities (Remote/Relocation)
 </p>
 
 <br>
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h3 align="center">🧠 AI & Data Stack</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="langchain" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="openai" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Vector_DB-Chroma-30cfd0?style=for-the-badge" height="40" alt="vectordb" />
+</div>
+
+<br>
+
+<h3 align="center">🏗️ Core Backend Stack</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript" />
-  <img width="15" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="spring" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb" />
-  <img width="15" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react" />
-  <img width="15" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="docker" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git" />
@@ -42,7 +42,17 @@
 
 <p align="center">
   <br>
-  <img src="https://img.shields.io/badge/Load_Testing-k6-purple?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/Performance_Testing-k6-purple?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-blue?style=for-the-badge" alt="prompt-engineering" />
+</p>
+
+<br>
+
+<h3 align="center">🌟 Featured Projects</h3>
+<p align="center">
+  <b>AI Assistant (HR RAG System):</b> An intelligent system that eliminates hallucinations by grounding LLM responses in private HR documentation. <br>
+  <b>Groove Hub:</b> An AI-powered music advisor CLI that translates user moods into curated recommendations. <br>
+  <b>Smart Dispenser:</b> Integrating interactive AI avatars into hardware for real-time user engagement.
 </p>
 
 <br>
