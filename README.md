@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer | Backend & AI Integration</h3>
 
 <p align="center">
-  <em>Software Developer from Argentina, specialized in bridging <b>Robust Backend Architectures</b> with <b>Intelligent Systems</b>. <br>
-  I build production-ready <b>RAG pipelines</b> and AI agents, focusing on scalability and system resilience.</em>
+  <em>Software Engineer from Argentina focused on building <b>robust backend systems</b> and integrating <b>AI into real-world applications</b>. <br>
+  I design and develop <b>RAG pipelines</b> and <b>multi-agent systems</b>, with an emphasis on scalability and clean architecture.</em>
 </p>
 
 <p align="center">
