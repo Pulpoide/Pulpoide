@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Joaquin Olivero 👋</h1>
-<h3 align="center">Software Engineer | Backend & AI Integration</h3>
+<h3 align="center">Software Developer | Backend & AI Integration</h3>
 
 <p align="center">
   <em>Software Engineer from Argentina focused on building <b>robust backend systems</b> and integrating <b>AI into real-world applications</b>. <br>
