@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Backend & AI Integration</h3>
 
 <p align="center">
-  <em>Software Engineer from Argentina focused on building <b>robust backend systems</b> and integrating <b>AI into real-world applications</b>. <br>
+  <em>Software Dev Jr from Argentina focused on building <b>robust backend systems</b> and integrating <b>AI into real-world applications</b>. <br>
   I design and develop <b>RAG pipelines</b> and <b>multi-agent systems</b>, with an emphasis on scalability and clean architecture.</em>
 </p>
 
