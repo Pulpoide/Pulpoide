@@ -30,7 +30,7 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 ## 🚀 Featured Projects
 
-### 🔍 [LexTrace](https://github.com/Pulpoide/lextrace) — Multi-agent Contract Analysis *(Shipping April 2026)*
+### 🔍 [LexTrace](https://github.com/Pulpoide/lextrace-agentic-contract-diff) — Multi-agent Contract Analysis *(Shipping April 2026)*
 > Modular multi-agent system for semantic contract analysis. Addresses LLM context fatigue through a pipeline of specialized agents, each responsible for a contract layer. Includes a Streamlit interface.
 
 `Python` `LangGraph` `LangFuse` `Multi-agent` `Streamlit`
@@ -44,7 +44,7 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 ---
 
-### 🏟️ [DeporTurnos](https://github.com/Pulpoide/deporturnos) — Sports Court Booking System *(Technical Thesis)*
+### 🏟️ [DeporTurnos](https://github.com/Pulpoide/deporturnos-back) — Sports Court Booking System *(Technical Thesis)*
 > Full-stack booking platform with JWT auth, role-based access (Admin/Client), OpenAPI docs, and performance validation using k6 load testing. Deployed frontend live.
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `React` `Vite` `k6`
@@ -90,20 +90,6 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Joaco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pulpoide&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1B9E78&icon_color=1B9E78&text_color=c9d1d9&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1B9E78&text_color=c9d1d9&langs_count=6)
-
-</div>
-
-> ⚠️ *Stats may take a moment to load — the service caches on first render. If they stay broken, confirm your GitHub username matches `Pulpoide` exactly.*
 
 ---
 
