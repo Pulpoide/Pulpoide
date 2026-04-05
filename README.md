@@ -4,7 +4,7 @@
 # Joaquín Olivero
 
 ### Backend Developer · AI Integration Engineer
-**Building production-grade systems where Java meets LangGraph**
+**Building production-grade systems**
 
 *Córdoba, Argentina — Open to remote & relocation*
 
