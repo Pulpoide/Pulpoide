@@ -4,7 +4,7 @@
 # Joaquín Olivero
 
 ### Backend Developer · AI Integration Engineer
-**Building production-grade systems**
+**Building reliable backend systems and intelligent AI pipelines**
 
 *Córdoba, Argentina — Open to remote & relocation*
 
@@ -18,22 +18,22 @@
 
 ## 👋 About me
 
-I'm a backend-focused developer currently specializing in AI Engineering — the intersection I find most interesting right now. I build robust APIs and backend systems in Java/Spring Boot and Node.js, and I design multi-agent architectures with LangGraph and RAG pipelines that actually run in production.
+I'm a backend-focused developer currently specializing in AI Engineering — the intersection I find most interesting right now. I build APIs and backend systems in Java/Spring Boot and Node.js, and I design multi-agent architectures with LangGraph and RAG pipelines.
 
-I started studying Computer Engineering at UNC in 2016, completed my Associate Degree in Software Development at IUA, and I'm wrapping up an AI Engineering specialization at Soy Henry (May 2026). My star project right now is **LexTrace**, a multi-agent contract analysis system designed to solve LLM context fatigue through specialized agent orchestration.
+I started studying Computer Engineering at UNC in 2016, completed my Associate Degree in Software Development at IUA, and I'm wrapping up an AI Engineering specialization at Soy Henry (May 2026). My star project right now is **LexTrace**, a multi-agent contract analysis system designed to solve LLM context fatigue through specialized agent orchestration — shipping soon.
 
 Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhythm, precision, and timing under pressure translate surprisingly well to distributed systems.
 
-> **Actively seeking a remote role** — Junior/Mid Backend or AI Integration Developer. Available immediately.
+> **Actively seeking a remote role** — Junior Backend or AI Integration Developer. Available immediately.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 [LexTrace](https://github.com/Pulpoide/lextrace) — Multi-agent Contract Analysis *(In Progress — May 2026)*
-> Modular multi-agent system for semantic contract analysis. Addresses LLM context fatigue through a pipeline of specialized agents, each responsible for a contract layer.
+### 🔍 [LexTrace](https://github.com/Pulpoide/lextrace) — Multi-agent Contract Analysis *(Shipping April 2026)*
+> Modular multi-agent system for semantic contract analysis. Addresses LLM context fatigue through a pipeline of specialized agents, each responsible for a contract layer. Includes a Streamlit interface.
 
-`Python` `LangGraph` `LangFuse` `Multi-agent` `Observability`
+`Python` `LangGraph` `LangFuse` `Multi-agent` `Streamlit`
 
 ---
 
@@ -67,7 +67,9 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 ![LangFuse](https://img.shields.io/badge/LangFuse-6366F1?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-`RAG` `Multi-agent Systems` `Prompt Engineering`
+![RAG](https://img.shields.io/badge/RAG-1B6E78?style=flat-square&logoColor=white)
+![Multi-agent Systems](https://img.shields.io/badge/Multi--agent_Systems-2D2D2D?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4A4A4A?style=flat-square&logoColor=white)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -95,11 +97,13 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 <div align="center">
 
-![Joaco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pulpoide&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1B9E78&icon_color=1B9E78&text_color=c9d1d9)
+![Joaco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pulpoide&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1B9E78&icon_color=1B9E78&text_color=c9d1d9&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1B9E78&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulpoide&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1B9E78&text_color=c9d1d9&langs_count=6)
 
 </div>
+
+> ⚠️ *Stats may take a moment to load — the service caches on first render. If they stay broken, confirm your GitHub username matches `Pulpoide` exactly.*
 
 ---
 
