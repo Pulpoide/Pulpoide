@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About me
+## About me
 
 I'm a backend-focused developer currently specializing in AI Engineering — the intersection I find most interesting right now. I build APIs and backend systems in Java/Spring Boot and Node.js, and I design multi-agent architectures with LangGraph and RAG pipelines.
 
@@ -28,7 +28,7 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔍 [LexTrace](https://github.com/Pulpoide/lextrace-agentic-contract-diff) — Multi-agent Contract Analysis *(Shipping April 2026)*
 > Modular multi-agent system for semantic contract analysis. Addresses LLM context fatigue through a pipeline of specialized agents, each responsible for a contract layer. Includes a Streamlit interface.
@@ -58,7 +58,7 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -93,7 +93,7 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 ---
 
-## 📚 Education & Certifications
+## Education & Certifications
 
 | | |
 |---|---|
@@ -105,7 +105,7 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 ---
 
-## 🌎 Languages
+## Languages
 
 🇦🇷 Spanish — Native &nbsp;|&nbsp; 🇺🇸 English — B2 Professional &nbsp;|&nbsp; 🇧🇷 Portuguese — B1 Intermediate
 
