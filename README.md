@@ -20,7 +20,7 @@
 
 I'm a backend-focused developer currently specializing in AI Engineering — the intersection I find most interesting right now. I build APIs and backend systems in Java/Spring Boot and Node.js, and I design multi-agent architectures with LangGraph and RAG pipelines.
 
-I started studying Computer Engineering at UNC in 2016, completed my Associate Degree in Software Development at IUA, and I'm wrapping up an AI Engineering specialization at Soy Henry (May 2026). My star project right now is **LexTrace**, a multi-agent contract analysis system designed to solve LLM context fatigue through specialized agent orchestration — shipping soon.
+I started studying Computer Engineering at UNC in 2016, completed my Associate Degree in Software Development at IUA, and I'm wrapping up an AI Engineering specialization at Henry (April 2026). My star project right now is **LexTrace**, a multi-agent contract analysis system designed to solve LLM context fatigue through specialized agent orchestration — shipping soon.
 
 Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhythm, precision, and timing under pressure translate surprisingly well to distributed systems.
 
