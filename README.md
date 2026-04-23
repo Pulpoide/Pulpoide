@@ -3,7 +3,7 @@
 
 # Joaquín Olivero
 
-### Backend Developer · AI Integration Engineer
+### Backend Developer · AI Engineer
 **Building reliable backend systems and intelligent AI pipelines**
 
 *Córdoba, Argentina — Open to remote & relocation*
