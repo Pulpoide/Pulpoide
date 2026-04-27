@@ -97,7 +97,7 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 | | |
 |---|---|
-| 🤖 AI Engineering | Soy Henry · Mar–May 2026 |
+| 🤖 AI Engineering | Henry · April 2026 |
 | 🎓 Associate Degree in Software Development | IUA · 2021–2024 |
 | 🏛️ Computer Engineering (Core Curriculum) | UNC · 2016–2020 |
 | 🏅 Introduction to Modern AI | Cisco · Sept 2025 |
