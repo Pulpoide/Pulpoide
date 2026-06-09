@@ -51,7 +51,7 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 ---
 
-### [dravildoza.com](https://dravildoza.com) — Medical Platform *(Freelance · Production)*
+### [Dra. Vildoza](https://dravildoza.com) — Medical Platform *(Freelance · Production)*
 > Trilingual HRT patient management platform. Next.js 15 App Router, Supabase auth + relational DB, CI/CD via Vercel. Built and deployed end-to-end.
 
 `Next.js 15` `TypeScript` `Supabase` `Tailwind CSS` `next-intl` `Vercel`
