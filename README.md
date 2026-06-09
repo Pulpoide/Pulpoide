@@ -30,28 +30,28 @@ Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhyth
 
 ## Featured Projects
 
-### 🔍 [LexTrace](https://github.com/Pulpoide/lextrace-agentic-contract-diff) — Multi-agent Contract Analysis *(Shipping April 2026)*
+### [LexTrace](https://github.com/Pulpoide/lextrace-agentic-contract-diff) — Multi-agent Contract Analysis *(Shipping April 2026)*
 > Modular multi-agent system for semantic contract analysis. Addresses LLM context fatigue through a pipeline of specialized agents, each responsible for a contract layer. Includes a Streamlit interface.
 
 `Python` `LangGraph` `LangFuse` `Multi-agent` `Streamlit`
 
 ---
 
-### 🎸 [TourMaster-AI](https://github.com/Pulpoide/tourmaster-ai) — Multi-agent Tour Management
+### [TourMaster-AI](https://github.com/Pulpoide/tourmaster-ai) — Multi-agent Tour Management
 > Orchestrates music tour logistics with RAG (ChromaDB), real-time Tool Calling, and enterprise-grade observability via LangFuse. Built to demonstrate production-quality AI system design.
 
 `Python` `LangGraph` `LangFuse` `ChromaDB` `RAG` `Tool Calling`
 
 ---
 
-### 🏟️ [DeporTurnos](https://github.com/Pulpoide/deporturnos-back) — Sports Court Booking System *(Technical Thesis)*
+### [DeporTurnos](https://github.com/Pulpoide/deporturnos-back) — Sports Court Booking System *(Technical Thesis)*
 > Full-stack booking platform with JWT auth, role-based access (Admin/Client), OpenAPI docs, and performance validation using k6 load testing. Deployed frontend live.
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `React` `Vite` `k6`
 
 ---
 
-### 🌐 [dravildoza.com](https://dravildoza.com) — Medical Platform *(Freelance · Production)*
+### [dravildoza.com](https://dravildoza.com) — Medical Platform *(Freelance · Production)*
 > Trilingual HRT patient management platform. Next.js 15 App Router, Supabase auth + relational DB, CI/CD via Vercel. Built and deployed end-to-end.
 
 `Next.js 15` `TypeScript` `Supabase` `Tailwind CSS` `next-intl` `Vercel`
