@@ -19,6 +19,7 @@
 ## About me
 
 Backend & AI Engineer building production-ready systems at the intersection of robust APIs and intelligent architectures. I design and ship multi-agent pipelines and RAG systems using LangGraph, Python, and Java — with a focus on observability, scalability, and clean design.
+
 My flagship project is LexTrace, a multi-agent platform for legal document analysis that solves LLM context fatigue through modular agent orchestration. I approach software the way I approach drumming — with precision, structure, and an ear for what the system needs next.
 
 > **Actively seeking a remote role** — Backend or AI Integration Developer. Available immediately.
@@ -27,7 +28,7 @@ My flagship project is LexTrace, a multi-agent platform for legal document analy
 
 ## Featured Projects
 
-### [LexTrace](https://github.com/Pulpoide/lextrace-agentic-contract-diff) — Multi-agent Contract Analysis *(Shipping April 2026)*
+### [LexTrace](https://github.com/Pulpoide/lextrace-agentic-contract-diff) — Multi-agent Contract Analysis
 > Modular multi-agent system for semantic contract analysis. Addresses LLM context fatigue through a pipeline of specialized agents, each responsible for a contract layer. Includes a Streamlit interface.
 
 `Python` `LangGraph` `LangFuse` `Multi-agent` `Streamlit`
@@ -94,7 +95,7 @@ My flagship project is LexTrace, a multi-agent platform for legal document analy
 
 | | |
 |---|---|
-| 🤖 AI Engineering | Henry · April 2026 |
+| 🤖 AI Engineering | Henry (Y Combinator-backed) · April 2026 |
 | 🎓 Associate Degree in Software Development | IUA · 2021–2024 |
 | 🏛️ Computer Engineering (Core Curriculum) | UNC · 2016–2020 |
 | 🏅 Introduction to Modern AI | Cisco · Sept 2025 |
@@ -110,7 +111,7 @@ My flagship project is LexTrace, a multi-agent platform for legal document analy
 
 <div align="center">
 
-**Let's build something worth maintaining.**
+**Currently open to remote backend or AI engineering roles. If you're building something interesting, let's talk.**
 [joacolivero.dev@gmail.com](mailto:joacolivero.dev@gmail.com) · [joacolivero.com](https://joacolivero.com)
 
 </div>
