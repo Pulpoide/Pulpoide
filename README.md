@@ -3,7 +3,7 @@
 
 # Joaquín Olivero
 
-### Backend Developer · AI Engineer
+### Backend & AI Engineer
 **Building reliable backend systems and intelligent AI pipelines**
 
 *Córdoba, Argentina — Open to remote & relocation*
@@ -18,13 +18,10 @@
 
 ## About me
 
-I'm a backend-focused developer currently specializing in AI Engineering — the intersection I find most interesting right now. I build APIs and backend systems in Java/Spring Boot and Node.js, and I design multi-agent architectures with LangGraph and RAG pipelines.
+Backend & AI Engineer building production-ready systems at the intersection of robust APIs and intelligent architectures. I design and ship multi-agent pipelines and RAG systems using LangGraph, Python, and Java — with a focus on observability, scalability, and clean design.
+My flagship project is LexTrace, a multi-agent platform for legal document analysis that solves LLM context fatigue through modular agent orchestration. I approach software the way I approach drumming — with precision, structure, and an ear for what the system needs next.
 
-I started studying Computer Engineering at UNC in 2016, completed my Associate Degree in Software Development at IUA, and I'm wrapping up an AI Engineering specialization at Henry (April 2026). My star project right now is **LexTrace**, a multi-agent contract analysis system designed to solve LLM context fatigue through specialized agent orchestration — shipping soon.
-
-Outside the terminal: I've been a drummer and percussionist for 10+ years. Rhythm, precision, and timing under pressure translate surprisingly well to distributed systems.
-
-> **Actively seeking a remote role** — Junior Backend or AI Integration Developer. Available immediately.
+> **Actively seeking a remote role** — Backend or AI Integration Developer. Available immediately.
 
 ---
 
