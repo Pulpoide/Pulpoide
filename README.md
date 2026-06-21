@@ -35,14 +35,14 @@ My flagship project is LexTrace, a multi-agent platform for legal document analy
 
 ---
 
-### [TourMaster-AI](https://github.com/Pulpoide/tourmaster-ai) — Multi-agent Tour Management
+### [Tourmaster-AI](https://github.com/Pulpoide/tourmaster-ai) — Multi-agent Tour Management
 > Orchestrates music tour logistics with RAG (ChromaDB), real-time Tool Calling, and enterprise-grade observability via LangFuse. Built to demonstrate production-quality AI system design.
 
 `Python` `LangGraph` `LangFuse` `ChromaDB` `RAG` `Tool Calling`
 
 ---
 
-### [DeporTurnos](https://github.com/Pulpoide/deporturnos-back) — Sports Court Booking System *(Technical Thesis)*
+### [Deporturnos](https://github.com/Pulpoide/deporturnos-back) — Sports Court Booking System *(Technical Thesis)*
 > Full-stack booking platform with JWT auth, role-based access (Admin/Client), OpenAPI docs, and performance validation using k6 load testing. Deployed frontend live.
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `React` `Vite` `k6`
